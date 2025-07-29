@@ -15,6 +15,9 @@
 **Customizable Inputs** - Adjust your funding, loans and spending to get a real picture of all of your finances
 **Clean UI/UX** - Designed for simplicity and dynamic screens for use on both mobile an desktop
 
+## 🚧 Features to-Add
+- **Login and Registration:** Continuing to work on user authentication for saving data
+
 
 ## 📄 Note
 This repository is for **showcase purposes only** - the production code is kept private for intellectual property
