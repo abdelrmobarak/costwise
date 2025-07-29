@@ -17,7 +17,7 @@
 
 
 ## 📄 Note
-This repository is for **showcase purposes only** - the production code is kept private ofor intellectual property
+This repository is for **showcase purposes only** - the production code is kept private for intellectual property
 
 ## 📬 Contact
 📧 **Email:** abdelrmobarak@gmail.com
