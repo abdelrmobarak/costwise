@@ -6,7 +6,7 @@
 
 ## 🛠 Tech Stack
 - **Frontend:** Next.js, TypeScript, Tailwind CSS
-- **Backend:** Redis, bcrypt
+- **Backend:** Redis, Better Auth
 - **Database:** PostgreSQL (Hosted on Neon)
 - **Deployed on:** Vercel
 
@@ -16,7 +16,7 @@
 **Clean UI/UX** - Designed for simplicity and dynamic screens for use on both mobile an desktop
 
 ## 🚧 Features to-Add
-- **Login and Registration:** Continuing to work on user authentication for saving data
+- **Better Styling** - Potential dynamic styling for the landing page?
 
 
 ## 📄 Note
