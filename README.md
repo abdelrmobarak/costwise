@@ -16,7 +16,7 @@
 **Clean UI/UX** - Designed for simplicity and dynamic screens for use on both mobile an desktop
 
 ## 🚧 Features to-Add
-- **Better Styling** - Potential dynamic styling for the landing page?
+
 
 
 ## 📄 Note
